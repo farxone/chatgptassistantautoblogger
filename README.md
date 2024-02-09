@@ -1,3 +1,4 @@
+#FX full instructions video at the link https://www.youtube.com/watch?v=rjtfCARo8O8
 ## How to autoblog using the ChatGPT Assistant's API
 
 Firstly check out Income Stream Surfers on YouTube. There will be a few videos on how to use this script.
